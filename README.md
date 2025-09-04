@@ -1,2 +1,5 @@
 
-Disregard my previous readme edit - I was able to clone and push, so this repo looks like it is working fine
+First ITP-136 Assignment
+
+Upon run, this program will prompt the user for their name. User types their name and enters. The program will welcome the user by name
+
