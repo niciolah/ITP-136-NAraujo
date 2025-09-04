@@ -1,3 +1,4 @@
+Nicole Araujo, 9/4/2025
 
 First ITP-136 Assignment
 
